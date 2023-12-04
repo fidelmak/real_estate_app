@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:google_fonts/google_fonts.dart';
 
+import 'estate/routes/routes.dart';
 import 'estate/screens/splash.dart';
 
 final theme = ThemeData(
