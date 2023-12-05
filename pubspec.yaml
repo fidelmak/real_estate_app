@@ -37,6 +37,8 @@ dependencies:
   google_fonts: ^6.1.0
   rich_text_widget: ^0.2.7
   loading_progress: ^1.0.2
+  simple_animation_progress_bar: ^1.6.0
+  font_awesome_flutter: ^10.6.0
 
 dev_dependencies:
   flutter_test:
